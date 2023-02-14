@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <name>My ReactJS App Nextcloud</name>
+    <description>My custom Nextcloud app built with ReactJS</description>
+    <version>1.0</version>
+    <author>Your Name</author>
+    <dependencies>
+        <nextcloud min-version="20" max-version="24"/>
+    </dependencies>
+</info>
